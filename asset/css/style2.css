@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+}
+
+.bagian-nav {
+  background-color: #ffc0cb;
+  height: 75px;
+}
+
+.bagian-nav a {
+  float: right;
+  text-decoration: none;
+  color: black;
+  font-size: 17px;
+  padding-top: 27px;
+  padding-bottom: 27px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-right: 200px;
+}
+
+.bagian-nav a:hover {
+  background-color: #ffd9df;
+}
+
+.kata-main {
+  padding-top: 90px;
+  padding-bottom: 80px;
+  text-align: center;
+}
+.bagian-main .kata-main button {
+  margin-bottom: 40px;
+  color: white;
+  font-size: 20px;
+  border: none;
+  background-color: #32a5cb;
+  padding: 15px 80px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.bagian-main .kata-main button:hover {
+  background-color: #6fc0da;
+}
+
+.bagian-main img {
+  width: 350px;
+  height: 200px;
+  padding: 0px 30px;
+}
+
+.bagian-foto {
+  text-align: center;
+  margin-top: 70px;
+}
+
+.bagian-footer {
+  background-color: #ffc0cb;
+  padding: 10px 0px;
+}
+
+.bagian-footer h4 {
+  padding-left: 40px;
+}
